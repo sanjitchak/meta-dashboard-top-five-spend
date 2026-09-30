@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "id": "52529889641768",
+      "name": "[Combined Ad sets] Winning Ads UPdated - 9 june 2026",
+      "spend": 890659.31
+    },
+    {
+      "id": "6939313042164",
+      "name": "Retargeting Scheduled",
+      "spend": 32983.5
+    },
+    {
+      "id": "6958019017564",
+      "name": "Testing campaign with combined adset",
+      "spend": 2193.59
+    },
+    {
+      "id": "52559855570168",
+      "name": "VSL",
+      "spend": 0.0
+    },
+    {
+      "id": "6977057063964",
+      "name": "[Combined Ad sets] Winning Ads",
+      "spend": 0.0
+    }
+  ],
+  "rows": {
+    "campaigns": 5,
+    "adsets": 54,
+    "ads": 202
+  },
+  "creatives": 310,
+  "excludedUnlinkedRecords": {
+    "adsets": 116,
+    "ads": 961
+  }
+}
